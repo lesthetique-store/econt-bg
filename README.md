@@ -1,5 +1,5 @@
 # econ
-A simple Python wrapper for the Econt.com (REST API)
+📦 A simple Python wrapper for the Econt.com (REST API)
 
 #### Install
 ```bash
