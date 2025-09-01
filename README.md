@@ -1,5 +1,5 @@
-# econt
-A library for use econt.com delivery service
+# econ
+A simple Python wrapper for the Econt.com (REST API)
 
 #### Install
 ```bash
